@@ -12,7 +12,6 @@ import {
   Video,
   Sparkles,
   Terminal,
-  Braces,
 } from 'lucide-react';
 
 import {
@@ -26,8 +25,6 @@ import {
   FaLinux,
   FaAws,
   FaFigma,
-  FaNpm,
-  FaUbuntu,
 } from 'react-icons/fa';
 
 import { VscVscode } from 'react-icons/vsc';
@@ -39,10 +36,8 @@ import {
   SiNextdotjs,
   SiGraphql,
   SiKubernetes,
-  SiRedis,
   SiFirebase,
   SiVite,
-  SiVercel,
 } from 'react-icons/si';
 
 import type {
